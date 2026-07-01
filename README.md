@@ -4,6 +4,10 @@ Safe AI workflows for employee support and lifecycle requests on Cloudflare Work
 
 This project is a compact People Ops request router that classifies sensitive employee-support requests, retrieves synthetic HR policy context, creates a recommended workflow, requires human review for risky actions, and stores an auditable trail in a Durable Object.
 
+## Live Demo
+
+[Open PeopleOps AI Copilot](https://cloudflare-peopleops-ai-copilot.thottempudi-niteesha.workers.dev/)
+
 <img width="1440" height="900" alt="Screenshot 2026-06-30 at 9 45 10 PM" src="https://github.com/user-attachments/assets/d59c2d09-61cf-45f7-9be9-e20c025a92ea" />
 <img width="1440" height="900" alt="Screenshot 2026-06-30 at 9 45 19 PM" src="https://github.com/user-attachments/assets/6b9cea6e-3f83-44d1-9b7c-3556ded45b48" />
 <img width="1440" height="900" alt="Screenshot 2026-06-30 at 9 45 33 PM" src="https://github.com/user-attachments/assets/161576ad-8175-41fe-be4f-f8acc1c3a30f" />

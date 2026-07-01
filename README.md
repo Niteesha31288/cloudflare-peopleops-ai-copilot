@@ -6,6 +6,7 @@ This project is a compact People Ops request router that classifies sensitive em
 
 ## Live Demo
 
+Click here to access deployed url :-
 [Open PeopleOps AI Copilot](https://cloudflare-peopleops-ai-copilot.thottempudi-niteesha.workers.dev/)
 
 <img width="1440" height="900" alt="Screenshot 2026-06-30 at 9 45 10 PM" src="https://github.com/user-attachments/assets/d59c2d09-61cf-45f7-9be9-e20c025a92ea" />

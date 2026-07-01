@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-peopleops-ai-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PeopleOps AI Copilot for safe employee support routing, lifecycle workflows, and auditability on Cloudflare Workers.",
+  "scripts": {
+    "build:frontend": "node scripts/build-client-assets.mjs",
+    "dev": "npm run build:frontend && wrangler dev --local",
+    "deploy": "npm run build:frontend && wrangler deploy",
+    "typecheck": "npm run build:frontend && tsc --noEmit && tsc -p tsconfig.frontend.json --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260620.0",
+    "esbuild": "^0.28.1",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.23.0"
+  }
+}
